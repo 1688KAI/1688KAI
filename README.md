@@ -11,7 +11,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, ASM, Netty, Mysql
--  **Hobbies :** ChineseChess :performing_arts: & Music :headphones:
+-  **Hobbies :** jogging :🏃 Jogging: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [KAI](mailto:1090897843@qq.com)
 
