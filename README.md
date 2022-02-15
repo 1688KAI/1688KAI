@@ -9,9 +9,7 @@
 ### Welcome the god of wealth
 <img src="https://1688kai.github.io/ImageBed/img202202081825123.jpg" width="200"> <img src="https://1688kai.github.io/ImageBed/202202091040872.gif" width="280">
 
-
-### desire
-~~<img src="https://1688kai.github.io/ImageBed/202202111442840.jpg"> ~~
+ 
 
 
 
